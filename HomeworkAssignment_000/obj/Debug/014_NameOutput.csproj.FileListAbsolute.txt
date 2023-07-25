@@ -1,0 +1,8 @@
+C:\Users\maksi\source\repos\014_NameOutput\bin\Debug\014_NameOutput.exe.config
+C:\Users\maksi\source\repos\014_NameOutput\bin\Debug\014_NameOutput.exe
+C:\Users\maksi\source\repos\014_NameOutput\bin\Debug\014_NameOutput.pdb
+C:\Users\maksi\source\repos\014_NameOutput\obj\Debug\014_NameOutput.csproj.AssemblyReference.cache
+C:\Users\maksi\source\repos\014_NameOutput\obj\Debug\014_NameOutput.csproj.SuggestedBindingRedirects.cache
+C:\Users\maksi\source\repos\014_NameOutput\obj\Debug\014_NameOutput.csproj.CoreCompileInputs.cache
+C:\Users\maksi\source\repos\014_NameOutput\obj\Debug\014_NameOutput.exe
+C:\Users\maksi\source\repos\014_NameOutput\obj\Debug\014_NameOutput.pdb
